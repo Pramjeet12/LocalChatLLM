@@ -1,1 +1,1 @@
-# LocalChat
+# LocalChatLLM
